@@ -22,12 +22,12 @@ a {
 .coursel-wrapper {
   margin-top: 3em;
   display: flex;
-  gap: 1em;
+  gap: 3em;
   justify-content: space-around;
 }
 
 .coursel-wrapper div img {
-  width: 60%;
+  width: 65%;
   border-radius: 20px;
 }
 
